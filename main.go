@@ -9,5 +9,11 @@ func main() {
 }
 
 func main() {
+
+  fmt.Println("who read is the best")
+}
+
+func main() {
 	fmt.Println("this is a simple test")
+
 }
